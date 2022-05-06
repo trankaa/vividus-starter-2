@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/"/>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus/0.4.6/ff618eaa037835ed7e9cbf8a770aa1bb710ac2c8/vividus-0.4.6-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus/0.4.6/6f53ba98107e2aa8238e35afcd917b75db4d79e7/vividus-0.4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-web-app/0.4.8-SNAPSHOT/b378ad395b63fff60c8e8318b3b004e1bfe60213/vividus-plugin-web-app-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-plugin-web-app/0.4.8-SNAPSHOT/1aeff92fd9e759837b85e7586ef1ae67fd92b5a5/vividus-plugin-web-app-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-selenium/0.4.8-SNAPSHOT/dbc53fc90eb665642ccfc09a038aba11c1241b00/vividus-extension-selenium-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-extension-selenium/0.4.8-SNAPSHOT/a239f71606511c988e133c6a177f401b2887a401/vividus-extension-selenium-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-core/5.0.0-alpha.26/413d3b515f91feecada9a14c09aecec72e3927b3/jbehave-core-5.0.0-alpha.26-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-core/5.0.0-alpha.26/1aded394cc8e06d470a08aee13ace8f91a84750e/jbehave-core-5.0.0-alpha.26.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/a0a13cfc629420efb587d954f982c4c6a100da25/hamcrest-2.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/1820c0968dba3a11a1b30669bb1f01978a91dedc/hamcrest-2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/9654e91a61d7662c36be6710ef8e720c0e3f9807/httpclient-4.5.13-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.1.4/2b59d2f08bedf993e32bf32d6531c9548277d5f2/selenium-support-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.1.4/8aa95743eb0f5233e7f9634ee45dfbfd7d0ca9b1/selenium-support-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.appium/java-client/8.0.0/58b79c528b9a6abe14a772be3dd39bcc62900e2a/java-client-8.0.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.appium/java-client/8.0.0/bd49469d8820f92f3b83e924862b4e83668408f8/java-client-8.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.ashot/ashot/1.5.4/9252b184daa8be7199377f45ad0946c4192e0c9f/ashot-1.5.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.ashot/ashot/1.5.4/630e052b98de4f4f82c2d16d803d7b30f468853d/ashot-1.5.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.1.4/a9db7735395394eb62f6c3c89c3a46ae723da060/selenium-remote-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.1.4/dfe2fc3aeff186f9ae5d1f8b739a2d330b3e7b1c/selenium-remote-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.1.4/ac6cd8d069d5de93ae9ba33c42b2c145d3940d6d/selenium-http-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.1.4/3d291d9f6749990ae543e49636d41ffd7108be16/selenium-http-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.1.4/eb773d713d182a2c58fe92553580f21404bb48eb/selenium-json-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.1.4/d6b50de970b3cf420fdd58b656c500745202da85/selenium-json-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.1.4/b479ec5829ee71e1aaa40c63584096868258a4f9/selenium-api-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.1.4/b246fcd2411c2c9b7209077d9b47971ef9d4fefd/selenium-api-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.valfirst.browserup-proxy/browserup-proxy-core/2.1.4/d880963c8bc874820cf3a6cad6ce224b5e92cd9/browserup-proxy-core-2.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.valfirst.browserup-proxy/browserup-proxy-core/2.1.4/8405cff67ef734933da8cc82bbee68dc957a3cd7/browserup-proxy-core-2.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5fd01c33132462aab3905cb74bd1097a713ab91a/junit-jupiter-5.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5a817b1e63f1217e5c586090c45e681281f097ad/junit-jupiter-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.vintage/junit-vintage-engine/5.8.2/8630174ea6ae216b45d1c50272fd0bdf9588c949/junit-vintage-engine-5.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.vintage/junit-vintage-engine/5.8.2/64dde404f2db8b0e2ec6a53d31f4a076e298b1d1/junit-vintage-engine-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/ef25ff956479198a71a7d1b23e11f27fb09393b6/junit-platform-engine-1.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/b737de09f19864bd136805c84df7999a142fec29/junit-platform-engine-1.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/26d07692b618b8da29479febec7d55e18107ee48/junit-jupiter-params-5.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/ddeafe92fc263f895bfb73ffeca7fd56e23c2cce/junit-jupiter-params-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/429d353563c5fb35a3d47076bedbf75161e976c2/junit-jupiter-api-5.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/4c21029217adf07e4c0d0c5e192b6bf610c94bdc/junit-jupiter-api-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/386b61876dd33d0ef0381189d3c1db9455d99659/junit-platform-commons-1.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/32c8b8617c1342376fd5af2053da6410d8866861/junit-platform-commons-1.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.8.2/6cb79f38fd8b2b753d274d80edf00a7462d75461/junit-platform-launcher-1.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.8.2/c334fcee82b81311ab5c426ec2d52d467c8d0b28/junit-platform-launcher-1.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/2ef0187124bbfc7aed3038d4ffdd2241e8992937/commons-io-2.11.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.11.0/a2503f302b11ebde7ebc3df41daebe0e4eea3689/commons-io-2.11.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.9/ae5c56310246339ac93e96c576243689173142d4/commons-text-1.9-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.9/ba6ac8c2807490944a0a27f6f8e68fb5ed2e80e2/commons-text-1.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/xyz.rogfam/littleproxy/2.0.7/17ea620ce5b8704e96acb1db0022575bb62162b8/littleproxy-2.0.7-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/xyz.rogfam/littleproxy/2.0.7/97154fd37fd2136a569f386fc20826c95c816ed1/littleproxy-2.0.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/198b882fdc2c72c89c63401d946f6ba46c3acea3/commons-lang3-3.12.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.4.1/ea50b547b1c752882aba33e8af9d7ca44113703d/plexus-utils-3.4.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/3.4.1/4de9992988c534efd668bfcca0480ebe13e0c0eb/plexus-utils-3.4.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.31/bfab9ff19560a08eec231311ef2a192664a1c3d4/freemarker-2.3.31-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.31/cd4fc0942b4a8bdb19f3b669aa42136fb54feb55/freemarker-2.3.31.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/83f964c0d36cda6b05269fdd43abd0f553a17c84/gson-2.9.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/8f3421a8203053a6ab4b74f76a0550d21eee8cfe/paranamer-2.8-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.thoughtworks.paranamer/paranamer/2.8/619eba74c19ccf1da8ebec97a2d7f8ba05773dd6/paranamer-2.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/d6e6365dac44108fb2cc0684daea0d40bc6609f5/httpcore-4.4.13-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/853b96d3afbb7bf8cc303fe27ee96836a10c1834/httpcore-4.4.13.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0.1/373f2b2c234b3d46bfe49a112cfe053b2c3b1beb/auto-service-1.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0.1/c9779f7372192a96c957a3df1faeeabd07881085/auto-service-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0.1/81d155712ad79e1914732d23cd255d88143676aa/auto-service-annotations-1.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.0.1/ac86dacc0eb9285ea9d42eee6aad8629ca3a7432/auto-service-annotations-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/1.2/4fe76e8a3f5aaafa743d23bac4347803ecda3d70/auto-common-1.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/1.2/ca270191fd7d2a7297da7c8f29184206df10c67d/auto-common-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/c388a68bc2b17a314dfa7c769d858ada0fc32dcf/guava-31.1-jre-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/31.1-jre/60458f877d055d0c9114d9e1a2efb737b4bc282c/guava-31.1-jre.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.9/9ea91c3781ca6278b0f58803aa5ea94978d4d5c8/byte-buddy-1.12.9-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.9/424ded9ef3496b0d997ce066f2166a4f7ec7b07a/byte-buddy-1.12.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/5cf95a2e18d79d404fd81263db36862287e736cc/jcommander-1.82-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/a7c5fef184d238065de38f81bbc6ee50cca2e21/jcommander-1.82.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.12.3/4c66b91161f9f66499509ca4aa3631da17e2f4a6/async-http-client-2.12.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.12.3/6dfc91814cc8b3bc3327246d0e5df36911b9a623/async-http-client-2.12.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.74.Final/6222d246335309985a8bb05adc4a055bbcc2c9f2/netty-all-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.74.Final/111971090d3085dc5c29b76298f2fedceb9d528/netty-handler-proxy-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.74.Final/4f13672d0adb4424bef7b122a6bed86062b4b4d4/netty-handler-proxy-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.76.Final/d13cd71de2a4240996641dd8d9ecaef5f27513eb/netty-codec-http-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.76.Final/27cd81587a536cd4fed0a4d91466f8c2f4ffd405/netty-codec-http-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/7b441d8200348d21dfd93041f168f3bf23e5b580/netty-transport-native-epoll-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/e47ddc4704cb6d05e6503217ebe00ef8cee193f2/netty-transport-native-epoll-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/7b441d8200348d21dfd93041f168f3bf23e5b580/netty-transport-native-epoll-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/e1ee2a9c5f63b1b71260caf127a1e50667d62854/netty-transport-native-epoll-4.1.76.Final-linux-x86_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.76.Final/d53e034ee63a9ffdba2c01747fa950ee32ac53c9/netty-transport-classes-epoll-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.76.Final/921b92a76116674218af3dc4bbf43d73884e4146/netty-transport-classes-epoll-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/cb0290d0c66ead86d219713bbc2c384b461a3495/netty-transport-native-kqueue-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/620dfa23b7d1e219a46766eab848f688d9a1c64a/netty-transport-native-kqueue-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/cb0290d0c66ead86d219713bbc2c384b461a3495/netty-transport-native-kqueue-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/a165a783b01ede6684e0551bde5827a03f53918/netty-transport-native-kqueue-4.1.76.Final-osx-x86_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.76.Final/4305436c50e2e41e906136b839c6eef584f4db91/netty-transport-classes-kqueue-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.76.Final/dd6d7f3e5a55e7e39a8b54d15e696ef77bcc71c0/netty-transport-classes-kqueue-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.76.Final/27bcd0c056c334e5467ee4a23839bb414103b5ba/netty-transport-native-unix-common-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.76.Final/d5ed8c4be9680203c53f7ed788225c12c4d87ee0/netty-transport-native-unix-common-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/2.0.4/dea768fe806e1352d7b3c05fa94b6391f7468238/netty-reactive-streams-2.0.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/2.0.4/f77c8eaa7d5e2f2160b6d21ba385cf726f164b2/netty-reactive-streams-2.0.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.76.Final/74ce8ce76db2825f09bcdc285b564521b4a28548/netty-handler-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.76.Final/36a48583fa7da27be829b843d7eee9a8d89428e3/netty-handler-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.74.Final/7cd6588472f98fc294a5821d0043534deee1b9cd/netty-codec-socks-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.74.Final/89c370ca2c608a355cf3b5f69d72473a2e4e4ed8/netty-codec-socks-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.76.Final/2b8d93b44ca03a5b026a71ae9631ad76e53cc5bc/netty-codec-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.76.Final/42b95ef41b928284842acf36a22547ba8a09fe5/netty-codec-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.76.Final/824a31fdbfa27d9132a7f60d2e1e4d68699e658d/netty-transport-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.76.Final/f01d2f935005b6fdb2fedc23114d2ae717749c36/netty-transport-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.12.3/62b1d8d814d5286a807fe4528b0cb7fd09640594/async-http-client-netty-utils-2.12.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.12.3/ad99d8622931ed31367d0fef7fa17eb62e033fb3/async-http-client-netty-utils-2.12.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.76.Final/3e0b948b6b352eee5f8f47ca30c8710f9975e45e/netty-buffer-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.76.Final/231f5042a5050773eb22a918e84daff3f00892f2/netty-buffer-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.76.Final/127ef56785a2c7ebeeb65e0414ada3652d0fb9c7/netty-resolver-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.76.Final/e0b225a33772cb7bba73dc296cccefa6826ab8cc/netty-resolver-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.76.Final/d22c6e9de97c227725f0b3251ee095bd160e9b29/netty-common-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.76.Final/38d0b500f098dc89497b6e608d7427186f533cf0/netty-common-4.1.76.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.13.0/7069d525fc553dfae180d7704656ab1c5ab59635/opentelemetry-exporter-logging-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.13.0/1d53b783d3f565606e19776a3411fb34fa642238/opentelemetry-exporter-logging-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.13.0-alpha/1494f96a4f1733ca444a48d5056657ea9d981b5/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.13.0-alpha/f01d20fb5b8a314c4ae69c34f1c2cbbe7c78c71f/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.13.0/42adc22b7371de8d96035ebbac1c5605c99ab1ec/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.13.0/5b9bdd69f54b28bb336516d05d08fc32c3b7448b/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.13.0/fd30605c399f2f149738ec6f7bbed463efcf105a/opentelemetry-sdk-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.13.0/2b2a72c07c88b9df272c85c55f6b37b30ef88932/opentelemetry-sdk-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.13.0/f6edccae683f09ba81ac773b2139e1b31b9e0fd4/opentelemetry-sdk-trace-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.13.0/522d7bd82da2fbd53e782062d87e1d3872e196e5/opentelemetry-sdk-trace-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.13.0-alpha/88c9ef71984ccaa2149405b9086aab8347c58022/opentelemetry-sdk-metrics-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.13.0-alpha/231fbb2c38ed6456244948ae13221de21bd236e0/opentelemetry-sdk-metrics-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.13.0-alpha/9a3508a27c6c9cb874ab2fcdd889f5813e77f383/opentelemetry-sdk-logs-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.13.0-alpha/346a4cf9b4778ff97b2ecca28344ff2bccfca625/opentelemetry-sdk-logs-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.13.0/4964250ba745d1122b3e9fe6e8b3f89d239db5f0/opentelemetry-sdk-common-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.13.0/1da9c40ece22166bea9952b95b7e0295e2cdf944/opentelemetry-sdk-common-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.13.0-alpha/44e7c28a80f409c4922daf258ea1739dab6495cf/opentelemetry-semconv-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.13.0-alpha/3fa7b8f67d9fb77cee450a2e0727e1978032d6ad/opentelemetry-semconv-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.13.0/3e74dfbef32d474379a82469acc9b716934cd23d/opentelemetry-api-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.13.0/558f0bc9bb80f639a6edf816872a4acb7edd2a88/opentelemetry-api-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.13.0/8ddc0552eb6800a15b301956e0c76dd9bc46196e/opentelemetry-context-1.13.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.13.0/abb6a2c76fdf132724b3462d0b5ec0966892e0df/opentelemetry-context-1.13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/559938eedcd66eef8a655550a940b13807eee645/jtoml-2.0.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/2085505b2b173e14b2a7702edd703ce185fd6206/jtoml-2.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/33987872a811fe4d4001ed494b07854822257f42/junit-4.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/10dacb8b36398debceca36cd0db5f3316967f80e/checker-qual-3.12.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.12.0/d5692f0526415fcc6de94bb5bfbd3afd9dd3b3e5/checker-qual-3.12.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/d060e42b6aa896a3abe2ec612e1cf8cc307f8a49/error_prone_annotations-2.11.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.11.0/c5a0ace696d3f8b1c1d8cc036d8c03cc0cbe6b69/error_prone_annotations-2.11.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/d26c56180205cbb50447c3eca98ecb617cf9f58b/j2objc-annotations-1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.3/ba035118bc8bac37d7eff77700720999acd9986d/j2objc-annotations-1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.3/e6ffdff8c438d959376c91d94b319457354a84c5/reactive-streams-1.0.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.3/d9fb7a7926ffa635b3dcaa5049fb2bfa25b3e7d0/reactive-streams-1.0.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.sun.activation/jakarta.activation/1.2.2/fa3c25fb842cbe9eaa126a007475297f8bf35abe/jakarta.activation-1.2.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.sun.activation/jakarta.activation/1.2.2/74548703f9851017ce2f556066659438019e7eb5/jakarta.activation-1.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.2.3/94646d86e2896bfb4a3eabfa43ed0adb00a567de/failsafe-3.2.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.2.3/8e004e3b315d7eff434463942314900c3a43f821/failsafe-3.2.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.74.Final/bd38d1b92cb8117c712b0a21024697dd912a4205/netty-codec-dns-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.74.Final/2f8d808c01eb3a49435c8c8e9b3b47d0d616a75c/netty-codec-dns-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-haproxy/4.1.74.Final/c93ee387f814258825a9eff5bdb49712122c7b88/netty-codec-haproxy-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-haproxy/4.1.74.Final/2491c304000b2c0b6b47f163f826019a4a35a5f0/netty-codec-haproxy-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.74.Final/544b327185904fbc73e7d2178bc15f0db1cb1aa2/netty-codec-http2-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.74.Final/5eaaf9147527ec435fbecf3c57f5b8264886d126/netty-codec-http2-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-memcache/4.1.74.Final/bd7f3c4354d470a53d6fc94935e9ac0ba59c9be8/netty-codec-memcache-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-memcache/4.1.74.Final/b5254a87d6f3de04bac0f02407f74587f83e0d5c/netty-codec-memcache-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-mqtt/4.1.74.Final/b6e4dcb89373104b94eb8f9a487fc13f6219112f/netty-codec-mqtt-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-mqtt/4.1.74.Final/294c780483edd5a030b32ad31a697582dc8bf924/netty-codec-mqtt-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-redis/4.1.74.Final/408d247bff27d6b2aec3e796707d7ebc962f75f/netty-codec-redis-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-redis/4.1.74.Final/2c14712817eb5d87fb409f836077445cedb7a6de/netty-codec-redis-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-smtp/4.1.74.Final/3d50c35cffdc47f0b5b4ad868a3fba6ffc864861/netty-codec-smtp-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-smtp/4.1.74.Final/198da6e2dae6ebd144567904db401cb138d34245/netty-codec-smtp-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-stomp/4.1.74.Final/236e637fc8a895b588eeaa9fdac797812878d62e/netty-codec-stomp-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-stomp/4.1.74.Final/8c28291f1b133d93a095511362ddad63651a3683/netty-codec-stomp-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-xml/4.1.74.Final/a0b35c2d0e226c4b9f3a5a83c75c6037178927cc/netty-codec-xml-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-xml/4.1.74.Final/f95f3738a5b99088b5c36930c7bc60486a9986ea/netty-codec-xml-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-classes/2.0.48.Final/8f880ec49a9311c407b59a44621972efa2de82e8/netty-tcnative-classes-2.0.48.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-classes/2.0.48.Final/9f62346df2f103045cad6f9416e2925a32ee8709/netty-tcnative-classes-2.0.48.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.74.Final/8b897cd38b8d0c31507c3268c83bcbc5e2cc5bc/netty-resolver-dns-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.74.Final/8ec11e228f827dbccf79573a18c4831785aab8be/netty-resolver-dns-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-rxtx/4.1.74.Final/df877dfabb5192e37a78f330974267e99bac5467/netty-transport-rxtx-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-rxtx/4.1.74.Final/307ab4665d62396ede596ea183a09fc818106b4f/netty-transport-rxtx-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-sctp/4.1.74.Final/59f55c0501223601039e5a0bef467d840de684b3/netty-transport-sctp-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-sctp/4.1.74.Final/1cfa50cb12aea7cf4fa5cdc18bc3fc48f554ca6c/netty-transport-sctp-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-udt/4.1.74.Final/465178ccba10c93e2a5d3767a9ab1cf0dc09ef0c/netty-transport-udt-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-udt/4.1.74.Final/abf408510d2bded0231f4514aa2c86eb523cf52e/netty-transport-udt-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-classes-macos/4.1.74.Final/1b51205dc893346a517f970d601350d5dbc00138/netty-resolver-dns-classes-macos-4.1.74.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-classes-macos/4.1.74.Final/b363132135246488739508b45341cba64f2c1263/netty-resolver-dns-classes-macos-4.1.74.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.barchart.udt/barchart-udt-bundle/2.3.0/dbb3b69c400494d28555f6c9c343c873cbe3a4bb/barchart-udt-bundle-2.3.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.barchart.udt/barchart-udt-bundle/2.3.0/3d1a29b2b08d20533ad08918411528dd1880515e/barchart-udt-bundle-2.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-allure-adaptor/0.4.6/8194cfead98be805eea6ac351b1e5af5c5213f8c/vividus-allure-adaptor-0.4.6-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-allure-adaptor/0.4.6/d5f4c274f6935c0458372da9abd1934dafe08e26/vividus-allure-adaptor-0.4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-analytics/0.4.6/efb27b8843cac1cee5a2c5741b43500bb96162ab/vividus-analytics-0.4.6-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-analytics/0.4.6/11d6ff0290bd7b9f80a34903d7f157117fb6b230/vividus-analytics-0.4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-soft-assert/0.4.8-SNAPSHOT/d1d6202e48452498d0e971e4cddf4a5a2a5e2621/vividus-soft-assert-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-soft-assert/0.4.8-SNAPSHOT/fe184a49e7eda732f7e44f93810cecf2139a55b9/vividus-soft-assert-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-engine/0.4.8-SNAPSHOT/7c271aa7933f46a8284f91e886ee1dffa9ec456b/vividus-engine-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-engine/0.4.8-SNAPSHOT/fef4cdf1a340538b465f744bb78b960a757efe77/vividus-engine-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-http-client/0.4.8-SNAPSHOT/17ec7bcac4bb8fb3cfc683e5f790dca99ba474ce/vividus-http-client-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-http-client/0.4.8-SNAPSHOT/4dc74ee81fec6f7836ab28e7675e11fd590a0e94/vividus-http-client-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-reporter/0.4.8-SNAPSHOT/5a3d5b21d9366c8800b8b6904f885e96c3b3700/vividus-reporter-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-reporter/0.4.8-SNAPSHOT/3b01a0da9d1d306150641a4029998f445be92c33/vividus-reporter-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-util/0.4.8-SNAPSHOT/1aa80344a7d9e2f9066a4a0cc68e0d3df9395942/vividus-util-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-util/0.4.8-SNAPSHOT/68189ebf009a513ea287b53850b152763087d7dc/vividus-util-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.valfirst.browserup-proxy/browserup-proxy-mitm/2.1.4/d998c830cef2bedb945fe6a64e896931cd5b1608/browserup-proxy-mitm-2.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.valfirst.browserup-proxy/browserup-proxy-mitm/2.1.4/14ebf6b216ce127f13899327082ac46968c0b9c6/browserup-proxy-mitm-2.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/2.0.0-alpha2/173a53a32c05d6a7d0b9d1d363d62a7c58959a0d/jcl-over-slf4j-2.0.0-alpha2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/2.0.0-alpha2/d19474caf00ebbbfb503c4cbef258edb8f31404d/jcl-over-slf4j-2.0.0-alpha2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.0-alpha2/f1b99b3ab18c102c18408fe40e0ee4d07a3274e2/jul-to-slf4j-2.0.0-alpha2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.0-alpha2/f79c148a6d3ea4e8dad0dc6f369aef68dbd3cc23/jul-to-slf4j-2.0.0-alpha2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/6.4.0/717f8e8fb2f3f897d6dff8c701c137e02e430e79/selenide-6.4.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/6.4.0/9e773775e4c2bcc53da95a921028e2279014c674/selenide-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide-core/6.4.0/e4be4d1bf933dbd2a9ecd1d3f6483d669f681ebf/selenide-core-6.4.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide-core/6.4.0/6f8108462e7d508a6dc2f72c6bb945144a8218fe/selenide-core-6.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.1.1/b9b6d76cdd2b8444d6d889e1e775c9090925fab5/webdrivermanager-5.1.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.bonigarcia/webdrivermanager/5.1.1/4be041d104ebe9ba84a4e7a111944a13d262400b/webdrivermanager-5.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j18-impl/2.17.2/89a7ebdca0387f2e3a51a7596c90b682e56697ac/log4j-slf4j18-impl-2.17.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j18-impl/2.17.2/79462d0451b93106225395b03362b1965984533b/log4j-slf4j18-impl-2.17.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-java-commons/2.17.3/dfdc49890ee01f20b912ebaca5b970f237c7e42e/allure-java-commons-2.17.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-java-commons/2.17.3/998d8e1652615a200d345786b0346c18a0758217/allure-java-commons-2.17.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-generator/2.17.3/ad893d14b4bfc25a89ed61c5c432630d7b810b86/allure-generator-2.17.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-generator/2.17.3/de887a00cfe7b617f96298d96e2340eaa749b88c/allure-generator-2.17.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-plugin-api/2.17.3/9f3bb16f32da3527d0006b5a2ac5270549ba5166/allure-plugin-api-2.17.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-plugin-api/2.17.3/81dc693b1c51d0816a5ade3c8a553a6161efd868/allure-plugin-api-2.17.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f98abbc2176cd35716cbad60d7f1d4c97ac89dd1/json-path-2.7.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f9d7d9659f2694e61142046ff8a216c047f263e8/json-path-2.7.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.1.3/8fec06124157f4adf8fe9ffdc75620e3b5d318d2/httpclient5-5.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.1.3/13c984b7b881afcff3a7f0bb95878724a48a4b66/httpclient5-5.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.allurefw/allure1-model/1.0/9427a7625b28ae92108752ec2845559904d480c3/allure1-model-1.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.allurefw/allure1-model/1.0/cfd4d328364a7736448e42f088b53b5b8fb1c09d/allure1-model-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-core/2.2.1/ca72542a1688fabe325d9ca92e912761823d308f/tika-core-2.2.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.tika/tika-core/2.2.1/b035ff68666e1aa671185d53b5b2eeff75447d7/tika-core-2.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/asciitable/0.3.2/e77c09953612e6cbc7e93a6ee3935c5e35edc6d6/asciitable-0.3.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/asciitable/0.3.2/96ee630413aa5a03ac5cbb34c79c95f91f417caa/asciitable-0.3.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/ascii-utf-themes/0.0.1/90e0c7830dd86962ce308d6154806fc875bbe714/ascii-utf-themes-0.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/ascii-utf-themes/0.0.1/4e6354685bb4bf62742dd8f0bc2de338e048e978/ascii-utf-themes-0.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/char-translation/0.0.2/359ee3e51233505715bb7c350f13eaedeb527dc3/char-translation-0.0.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/char-translation/0.0.2/1f8a810c0b9a5b8269288b22f842b88b1262f238/char-translation-0.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/skb-interfaces/0.0.1/df9fdb3bcc0927abed1dfed0e3a443149b745228/skb-interfaces-0.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/de.vandermeer/skb-interfaces/0.0.1/78940adb54f8dbcebb9b6166ebd0ff52ca124b32/skb-interfaces-0.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.1.3/78428b915f32f6c273c106c60d4e17e60f0b3dcd/selenium-java-4.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.1.3/d1ff6102a8b23729b967406ea85f40fea5a2e970/selenium-java-4.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.1.4/2298abb467b0bfff78bf01e62fda15e51e617723/selenium-chrome-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.1.4/68af859b6ebb156c53ab8e54c0f130a6813b4973/selenium-chrome-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.1.4/b3aaac0f8c8abe0d111b21ba49baf1e622fdfdc0/selenium-edge-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.1.4/3f216e94ed0f71d4a96b4df0880cff1c194d9b02/selenium-edge-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.1.4/e76cfa3dfda9cbb946a25034c743344e1ae33c5d/selenium-firefox-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.1.4/eb04a522ccfd9e91f80a593dd07276f187a49bb/selenium-firefox-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.1.4/535b6ebf0d195ac60bb3eed75c960d5b6fcf99cc/selenium-ie-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.1.4/de2e3bfb254f1b0972b1026087fe5b6b6b0e2bed/selenium-ie-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.1.4/b602f613848f9ce2fcd8a0e45d83cab6915f7276/selenium-safari-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.1.4/d882231dd0a27954a4c1ba627c28b5880edcc6e0/selenium-safari-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/4.1.4/e5b03226c926da2cf345e563d809d1e941814dc7/selenium-opera-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-opera-driver/4.1.4/515b2c05e90cd37952a626604cdb1fd1185d4760/selenium-opera-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.1.4/f6f07ada7caf14059f1abf893c44c7c27eb4fb7d/selenium-chromium-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.1.4/963a217eed29f23fcf4ab6958ffb0bdb465c0997/selenium-chromium-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.1.4/31d59f5baaef954adf091816d9327b739f8e6b80/selenium-devtools-v85-4.1.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.1.4/627f9ea27c505032abb04b480aed5462e3a24182/selenium-devtools-v85-4.1.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v97/4.1.3/9fee88ae1202375ff12a74593e0ac24f47d672ae/selenium-devtools-v97-4.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v97/4.1.3/25ce7b8bd0d694796b45953b6f9db92066ac2b71/selenium-devtools-v97-4.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v98/4.1.3/3db4cd4b2bea127cd499d5c06402af01ca259f4/selenium-devtools-v98-4.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v98/4.1.3/2d6482630a4f20552c78518abaf9178707eed161/selenium-devtools-v98-4.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v99/4.1.3/70bec4353d561f7a24f8a8ebbadb0ee822d8aa54/selenium-devtools-v99-4.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v99/4.1.3/efbdac8d0865f10ad26e45533e46be766dedf980/selenium-devtools-v99-4.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/3.5.0/6d7df53c3b30201bbe1d1fda599d399d39a412d8/dnsjava-3.5.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/3.5.0/ddc654cdbe85e990e7e7023dd4966286bb5e8fbb/dnsjava-3.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.zeroturnaround/zt-exec/1.12/cf36f4e0fae8d794299fb1192e94dfa8a10c596c/zt-exec-1.12-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.zeroturnaround/zt-exec/1.12/51a8d135518365a169a8c94e074c7eaaf864e147/zt-exec-1.12.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.0-alpha2/75ec6c284818b69e57c74e6efd1a54b3f6ebc931/slf4j-api-2.0.0-alpha2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.0-alpha2/5822122019357edb9366f595f887ab77bab80b39/slf4j-api-2.0.0-alpha2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/88b2d34add2e0370c6a6d03ac7b3609b143e46bd/log4j-core-2.17.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/fa43ba4467f5300b16d1e0742934149bfc5ac564/log4j-core-2.17.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/91a89f75de4f567c38dc7ec9f83f2a1afd2c2915/log4j-api-2.17.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/f42d6afa111b4dec5d2aea0fe2197240749a4ea6/log4j-api-2.17.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy/4.0.1/64c7bc15b8b718350c3ac54e38467ec50ba2ae42/groovy-4.0.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy/4.0.1/d4c93c131c2a3c508835bf7335fa46ba2a76310e/groovy-4.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-spring/5.0.0-alpha.26/26eb21c81245415179bd2e217e1a14dbc96e0335/jbehave-spring-5.0.0-alpha.26-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/jbehave-spring/5.0.0-alpha.26/8244d4aa86540b10fa36f4e622bf68c2baa86e78/jbehave-spring-5.0.0-alpha.26.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.19/8574ed7642b2890899015547c2450f725dcfe3dc/spring-context-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.19/d663259767f8fb66229209db0422d65978235525/spring-context-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.5.0/e7e198ff537780c2835e484b0ffccd2960074504/commons-cli-1.5.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.5.0/dc98be5d5390230684a092589d70ea76a147925c/commons-cli-1.5.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt-spring4/1.9.3/46aa59feddd06cd93cdda9664823ee2d7842e2b2/jasypt-spring4-1.9.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt-spring4/1.9.3/1759d8d81852c7c05451c9d1126f394122ed22ef/jasypt-spring4-1.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.opencsv/opencsv/4.6/cbb2525ca01a104dbca6f012bded1a829abd875/opencsv-4.6-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.opencsv/opencsv/4.6/b7ce164e9e75be4b5eb42fd89c9c53ebecea6729/opencsv-4.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/6260e416ff273ee938b31b0a8e512a367b1ee500/commons-collections4-4.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/62ebe7544cb7164d87e0637a2a6a2bdc981395e8/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/4.1.1/6458475799eaf9c6c95048f8169556738a00c9c9/awaitility-4.1.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.awaitility/awaitility/4.1.1/6475db6694a81dfad967169f1561efa93fa92b84/awaitility-4.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.137/70faccbe61960916ca34a2e27ec8d96308f2eefb/classgraph-4.8.137-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.classgraph/classgraph/4.8.137/41692ccaf4e46e5cc10be225dd04104aa59b9d94/classgraph-4.8.137.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.java-diff-utils/java-diff-utils/4.11/c4ff1b4302cde3f826721fb173be5ba54f4c57eb/java-diff-utils-4.11-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.github.java-diff-utils/java-diff-utils/4.11/e674e7408acefe082e7421d37f5d866e49dc468f/java-diff-utils-4.11.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-jexl3/3.2.1/f0e1faa73681f41f0ba78b7b86de906db464863c/commons-jexl3-3.2.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-jexl3/3.2.1/e138026048758e4f92b0e1e9e0c8e496ddc1fd61/commons-jexl3-3.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.datafaker/datafaker/1.3.0/82387a25e78cb9e7ef587ef8e1a4d1b7b05692fa/datafaker-1.3.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.datafaker/datafaker/1.3.0/edf60689c387d3312b23ec59ec689916b0106b16/datafaker-1.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-test-context/0.4.8-SNAPSHOT/ec029a511bc943f0433ba342d021b554317445d7/vividus-test-context-0.4.8-SNAPSHOT-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.vividus/vividus-test-context/0.4.8-SNAPSHOT/4b4b102fde32995f5bbf864e36b998150b84e46b/vividus-test-context-0.4.8-SNAPSHOT.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/ea87fe3d752e24397f71f347872e79a89c61a704/junit-jupiter-engine-5.8.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c598b4328d2f397194d11df3b1648d68d7d990e3/junit-jupiter-engine-5.8.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure.plugins/behaviors-plugin/2.17.3/8bec79fc69dc92a8b9e61e68f3674973607d5742/behaviors-plugin-2.17.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure.plugins/behaviors-plugin/2.17.3/36dc3b4f922706a0ad7f3151f71a517cd7168d3d/behaviors-plugin-2.17.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.19/dfebf4906dba4724b71aac98c99fd302b9968c68/spring-aop-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.19/339b0ad295a7af51ac716bd89d36a4fb0febaf5d/spring-aop-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.19/538595499ddeaba8602253dfb193b1f33dbcac53/spring-beans-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.19/4bc68c392ed320c9ab5dc439d7f2deb83f03fe76/spring-beans-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.19/2d7471464aef38e971a8cd23827d9edccf8ade25/spring-expression-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.19/14346b7b84721f61d2b23d3c8baa60c6655527a6/spring-expression-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.19/1fea134126c57623b2e7cec144d52efce827bfad/spring-core-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.19/344ff3b291d7fdfdb08e865f26238a6caa86acc5/spring-core-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.3.1/e47264d065cecbc572ba99856fcc7da19a470ae3/jaxb-api-2.3.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.3.1/8531ad5ac454cc2deb9d4d32c40c4d7451939b5d/jaxb-api-2.3.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.13.2/28a7d59e154eb239ca98d63c1c90b1d6947eede4/jackson-dataformat-xml-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-xml/2.13.2/cb6a722f128ff0ce2494384d419b6ff20fad25ab/jackson-dataformat-xml-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.13.2/aec6a771d4e2d77f9724267037b21463cb5d24ea/jackson-dataformat-yaml-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.13.2/5601496b5b6e43d947aeeffbffadb2b18961c731/jackson-dataformat-yaml-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.2/2478f80222736def6773c433e01691473e4cb674/jackson-datatype-jdk8-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.2/95f59cf63c3aadc1549578254af839a9c42ae84f/jackson-datatype-jdk8-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.2/44f930092483cb59af871068bd809d8f5b78dc1f/jackson-datatype-jsr310-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.2/cddd9380efd4b81ea01e98be8fbdc9765a81793b/jackson-datatype-jsr310-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.13.2/abdbc37fc439fcc012bc2b6ec38bd095174f16d0/jackson-module-jaxb-annotations-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.13.2/e2f198c512f0f0ccbd6d618baecc9dde9975eadf/jackson-module-jaxb-annotations-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.2.2/8268a225143ededca45ca24d0761f08ea398fd5b/jackson-databind-2.13.2.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.2.2/ffeb635597d093509f33e1e94274d14be610f933/jackson-databind-2.13.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.2/f18990d027317810bb1a131a32ce4f001c8eaf2f/jackson-core-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.2/a6a0e0620d51833feffc67bccb51937b2345763/jackson-core-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.2/527158378d8c2e72c3e79122be86c896ad01129a/jackson-annotations-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.2/ec18851f1976d5b810ae1a5fcc32520d2d38f77a/jackson-annotations-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-properties/2.13.2/2a0deef2196b2cce6671c4ded13fccccf71be277/jackson-dataformat-properties-2.13.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-properties/2.13.2/192e4dd4984ffa683ae7cf96fbc6224a03b5f1c3/jackson-dataformat-properties-2.13.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-model/2.17.3/e318961ea154fe8cd1b60367efeffbb1d77f0ee5/allure-model-2.17.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.qameta.allure/allure-model/2.17.3/19ee8cd4f0eaa6e2ae53e04e7e31bfbff128e907/allure-model-2.17.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt/1.9.3/9fe5c909addd00e1f3c27af8b64e22ee98922dcc/jasypt-1.9.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jasypt/jasypt/1.9.3/d99ef9540f51c617f2a293b460f025d2ee563dd/jasypt-1.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.mifmif/generex/1.0.2/d1f52c4efe0b20154faf35f8df5c08a234dc41db/generex-1.0.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.mifmif/generex/1.0.2/b378f873b4e8d7616c3d920e2132cb1c87679600/generex-1.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.11.1/a529af055ae9d640a8a21cd1768c3c28a39d64df/commons-pool2-2.11.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.11.1/8970fd110c965f285ed4c6e40be7630c62db6f68/commons-pool2-2.11.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c04c22a0f5a84e985bd04d2129638e590c1e5edc/dec-0.1.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c26a897ae0d524809eef1c786cc6183b4ddcc3b/dec-0.1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.zxing/javase/3.4.1/82402e8a21fe228e10b6d462dcb26f22e9957a4d/javase-3.4.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.zxing/javase/3.4.1/4eddd2ff030c0d4f368d3cc00131ff6a58bc88e0/javase-3.4.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.4.1/cb2b657bad6c933cef09fa57bfe79fb6867d929e/core-3.4.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.4.1/1869da97e9b2b60b5ff2fcaf55899174b93ae25d/core-3.4.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-tables/0.62.2/d25be2a2839235e9ab7ea1346bf9068905f45120/flexmark-ext-tables-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-ext-tables/0.62.2/c95068a1450835c2695750ece82c996a7b57bbd3/flexmark-ext-tables-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.62.2/9fd79d98221869b5213ae0a83cd158b535afb8ca/flexmark-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark/0.62.2/606a88e1d15aa8debd97cb5dfdf788ddc6fb5b5e/flexmark-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.19/e8f9647856e373221082732b98baf14297dd898c/spring-jcl-5.3.19-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.19/eae3d8b8728133782d9e41f9b3ecbd19a4146114/spring-jcl-5.3.19.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.activation/javax.activation-api/1.2.0/1b4c6e77d35adab19794746d8ea753df30d77dca/javax.activation-api-1.2.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/javax.activation/javax.activation-api/1.2.0/85262acf3ca9816f9537ca47d5adeabaead7cb16/javax.activation-api-1.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dk.brics.automaton/automaton/1.11-8/6bc89a2a9c9c5524aa275b572c0fd3699ff7a5be/automaton-1.11-8-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/dk.brics.automaton/automaton/1.11-8/6ebfa65eb431ff4b715a23be7a750cbc4cc96d0f/automaton-1.11-8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.7/dce0d5f2c359f2a5fc2243310bba0b515d0df619/commons-validator-1.7-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.7/76069c915de3787f3ddd8726a56f47a95bfcbb0e/commons-validator-1.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.4/f00e0ba867d1810f255876631ab440e0725a9af0/commons-beanutils-1.9.4-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.4/d52b9abcd97f38c81342bb7e7ae1eee9b73cba51/commons-beanutils-1.9.4.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/843bc57fd042051e994846da8167bb7ca677a6d/commons-codec-1.15-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.7/d64652c79751177c96a294fd5a1dcd61a330e940/json-smart-2.4.7-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.7/8d7f4c1530c07c54930935f3da85f48b83b3c109/json-smart-2.4.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/67313d715fbf0ea4fd0bdb69217fb77f807a8ce5/commons-lang-2.6-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/b3e0a269baa0d05b02f9b4447be463d25da8c097/commons-compress-1.21-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/7b441d8200348d21dfd93041f168f3bf23e5b580/netty-transport-native-epoll-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.76.Final/32d6588c00f4d8d9205a47ff31996a44a8563a5a/netty-transport-native-epoll-4.1.76.Final-linux-aarch_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/cb0290d0c66ead86d219713bbc2c384b461a3495/netty-transport-native-kqueue-4.1.76.Final-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.76.Final/601b84c84c61676fd53a8615e4aabfce6a58a61d/netty-transport-native-kqueue-4.1.76.Final-osx-aarch_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-native-macos/4.1.74.Final/3345e8185d7a81ea8648628f654e681f3c1d51b7/netty-resolver-dns-native-macos-4.1.74.Final-osx-x86_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-native-macos/4.1.74.Final/2ac1d03139161cdf6fa8892dee389589c6d857ff/netty-resolver-dns-native-macos-4.1.74.Final-osx-aarch_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.1.3/7c926d1c5a7d0d42453f2c1cf886787235e99e98/httpcore5-h2-5.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.1.3/4664b59b09f5ee008e37a963bbb92f4068e91696/httpcore5-h2-5.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.1.3/75409375b1747c21e6484a6f1f103580ad097110/httpcore5-5.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.1.3/d1638d1e5f2793f187d4144c702a93524ba6fd3b/httpcore5-5.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.70/42f9de53a91b20bc06e88482c57fd97e5a84250d/bcpkix-jdk15on-1.70-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.70/f81e5af49571a9d5a109a88f239a73ce87055417/bcpkix-jdk15on-1.70.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcutil-jdk15on/1.70/4af4a6c92b8ea07885b27d8536b81b855497f4eb/bcutil-jdk15on-1.70-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcutil-jdk15on/1.70/54280e7195a7430d7911ded93fc01e07300b9526/bcutil-jdk15on-1.70.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.70/6245e15dd47e5fc33cff275df61662e0a8e5958f/bcprov-jdk15on-1.70-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.70/4636a0d01f74acaf28082fb62b317f1080118371/bcprov-jdk15on-1.70.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/b9b848fda50c0ca9b80d5422f021d0755044d2d6/cglib-3.3.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.3.0/c956b9f9708af5901e9cf05701e9b2b1c25027cc/cglib-3.3.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.8/49f01ec3df13e888e0cdd3409e9be3a486e8e28f/aspectjweaver-1.9.8-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.8/860849bd5fbb047279d138006f0fe613bf00962/aspectjweaver-1.9.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/3102d5e0e3e6cdb601b42f7bdcbff13167a2226d/jzlib-1.1.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.jcraft/jzlib/1.1.3/c01428efa717624f7aabf4df319939dda9646b2d/jzlib-1.1.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.28.0-GA/4e112a71eca1bebcadd85c5a07a9a26265eb12f4/javassist-3.28.0-GA-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.javassist/javassist/3.28.0-GA/9a958811a88381bb159cc2f5ed79c34a45c4af7a/javassist-3.28.0-GA.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.9.3/2d2338937cea04ac5321bc89f1ffdc93345df448/okhttp-4.9.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.9.3/b0b14b3d12980912723fb8b66afb48dcda742fcb/okhttp-4.9.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/ru.qatools.commons/properties/2.0.RC5/aed833bdb24c263fdacdda5e9b51163507fb4f63/properties-2.0.RC5-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/ru.qatools.commons/properties/2.0.RC5/9c90f0e4211aedcc39c18cd77b2268ddb6563bad/properties-2.0.RC5.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.baev/jaxb-utils/1.0/f32ccd8b4d6632b712b8038e6b036f4c43a46889/jaxb-utils-1.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.baev/jaxb-utils/1.0/7463f66662f5bc4ea6e61de04bfccfafe6125d67/jaxb-utils-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util/0.62.2/6e38dcd6bb4ccfc13d513aaba350404977fa85bd/flexmark-util-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-format/0.62.2/aded6673926aa21e792e083374d1b16bc3f2759f/flexmark-util-format-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-format/0.62.2/58548be1fc0682698721c0c278451a41f361d3a/flexmark-util-format-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-ast/0.62.2/efe4c65eb9953ec1ed53d3217331d5514e2b0abb/flexmark-util-ast-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-ast/0.62.2/c0b998d5570295f104a4ffee4f8eec305d7db327/flexmark-util-ast-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-builder/0.62.2/7d1a26aad0a2367a5aafa81d770118c9dc5065b9/flexmark-util-builder-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-builder/0.62.2/22c85efb51d4aa25540b8b0d880be7ad4a8baec1/flexmark-util-builder-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-dependency/0.62.2/d277ce77dfcb7754221cb02c6f8ea3fc0a46483e/flexmark-util-dependency-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-dependency/0.62.2/ae5afa76a669e06b3a65255c2ed775ede5cd3eb1/flexmark-util-dependency-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-html/0.62.2/ce2a4ebac7e5fc1b2278b1a31674766024b0ae08/flexmark-util-html-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-html/0.62.2/6d830cb37e48fd9dca44bf15fbc3a86aa7d82c5a/flexmark-util-html-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-options/0.62.2/db6a82151c00c30eefff95fdcefa5d0c5c02d39a/flexmark-util-options-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-options/0.62.2/d871763fff2226c271cc3333e98729ce6211065c/flexmark-util-options-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-sequence/0.62.2/57e3b6fab73a73e1a1848064c9ebbfe790da1967/flexmark-util-sequence-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-sequence/0.62.2/87af2803a63b5b07cc42d9c1d98f8ecd4f83fbcc/flexmark-util-sequence-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-collection/0.62.2/19a0505fa542b71940563f486ff977a145804891/flexmark-util-collection-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-collection/0.62.2/85253a62761533ce7709f81b0c581c8473f825ec/flexmark-util-collection-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-data/0.62.2/a259e94866b72eb68e230d21ab7edb37514f6a9/flexmark-util-data-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-data/0.62.2/2df8ce1abab2e40edc7d340962025ee1dd09fe02/flexmark-util-data-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-misc/0.62.2/d58ee9cde3eacde3922e4beeef4d687ac7930423/flexmark-util-misc-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-misc/0.62.2/18133dd81887c512e2f56feb3c14a8a1210f30ea/flexmark-util-misc-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-visitor/0.62.2/e0e51d876386588e52d87468aa4904481d7e0578/flexmark-util-visitor-0.62.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.vladsch.flexmark/flexmark-util-visitor/0.62.2/ca49bd94860a5ccedd82bde96ece831f16c66ff1/flexmark-util-visitor-0.62.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.0.8/6f23134f1c98dfce77f85defda31bfbce3e2a4ac/ST4-4.0.8-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/ST4/4.0.8/a1c55e974f8a94d78e2348fa6ff63f4fa1fae64/ST4-4.0.8.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.1/a5738a01ca8db69d41cb0347f2cfb71f756a1d88/antlr4-4.5.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.1/19a08f261dc2b7e1bc58c8f1038f766dccade74c/antlr4-4.5.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.2.7/2b5a0c908f0c485908bbc4f4d413126aa3dd9796/woodstox-core-6.2.7-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.2.7/86622cfd0a9933628b6b876d0c92589148d3b42e/woodstox-core-6.2.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/8d0d447792449c247f739781838cd620687074b/stax2-api-4.2.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/a3f7325c52240418c2ba257b103c3c550e140c83/stax2-api-4.2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/2fa17b2e1e6edc10ce8dec15df18a844efd8318b/snakeyaml-1.30-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/8fde7fe2586328ac3c68db92045e1c8759125000/snakeyaml-1.30.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.3/d83744bae211a4072c39f007000a13f501a88395/jakarta.xml.bind-api-2.3.3-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.3/48e3b9cfc10752fba3521d6511f4165bea951801/jakarta.xml.bind-api-2.3.3.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.2/c45b5962230be8a5f93759203870c98917bb8b31/jakarta.activation-api-1.2.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.2/99f53adba383cb1bf7c3862844488574b559621f/jakarta.activation-api-1.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.4.7/6369c6c389cd6e1e1ee42d8ea8823a78decae735/accessors-smart-2.4.7-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.4.7/3970cfc505e6657ca60f3aa57c849f6043000d7a/accessors-smart-2.4.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.jai-imageio/jai-imageio-core/1.4.0/48ffdb9d2066dd196271038f6d9598aba202ae46/jai-imageio-core-1.4.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.github.jai-imageio/jai-imageio-core/1.4.0/fb6d79b929556362a241b2f65a04e538062f0077/jai-imageio-core-1.4.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.1/3fb15dd478bf8dcb039aa0d035f9fff9e4229c61/asm-9.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.1/a99500cf6eea30535eeac6be73899d048f8d12a8/asm-9.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.1/32d198e5ebef012249b225118c7cb9caae56c4d8/commons-digester-2.1-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.1/73a8001e7a54a255eef0f03521ec1805dc738ca0/commons-digester-2.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.8.0/6d1b6e0ce288800b8662b4983a002620cd6ada95/okio-2.8.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.8.0/49b64e09d81c0cc84b267edd0c2fd7df5a64c78c/okio-jvm-2.8.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.10/4a5e4f984e6c3e380f100857f04aba4f3e5fbda8/kotlin-stdlib-1.4.10-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.4.10/ea29e063d2bbe695be13e9d044dcfb0c7add398e/kotlin-stdlib-1.4.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/15.0/e46282033fcc73c8b9eb55f297b264cee3680f29/annotations-15.0-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/15.0/d40ab99147584cf6cfb5245be67b3fee2c7220f9/annotations-15.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/5214ea45dd20d3a2e4caa6f1ad2248ad107e0daf/antlr-runtime-3.5.2-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.2/cd9cd41361c155f3af0f653009dcecb08d8b4afd/antlr-runtime-3.5.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.10/d971e5bb07a7f610eda65e5efc8decbd0548a270/kotlin-stdlib-common-1.4.10-sources.jar" kind="lib" path="C:/Users/Jubo/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.10/6229be3465805c99db1142ad75e6c6ddeac0b04c/kotlin-stdlib-common-1.4.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+</classpath>
